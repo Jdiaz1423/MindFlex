@@ -4,7 +4,8 @@
 
 ¡Bienvenido a nuestro proyecto! Este repositorio contiene el desarrollo de una nueva funcionalidad de personalización para la **MindFlex Learning Platform**. 
 
-Link de Jira: https://teamprogramacion3.atlassian.net/jira/software/projects/SCRUM/list?atlOrigin=eyJpIjoiZTc0NWFmYjEyMjBkNGRmZTllZmEyNDRhNjM3NGY1Y2IiLCJwIjoiaiJ9
+Link de Jira: 
+https://teamprogramacion3.atlassian.net/jira/software/projects/SCRUM/list?atlOrigin=eyJpIjoiZTc0NWFmYjEyMjBkNGRmZTllZmEyNDRhNjM3NGY1Y2IiLCJwIjoiaiJ9
 
 ## 📌 **Descripción del Proyecto**
 
