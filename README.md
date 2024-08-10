@@ -67,5 +67,3 @@ Este proyecto es de mi autoría, Jeremy Díaz, y cumple con los requisitos estab
 Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ---
-
-Espero que este README te sea útil y refleje claramente el objetivo y la calidad de tu proyecto. ¡Buena suerte con tu entrega! 🚀
