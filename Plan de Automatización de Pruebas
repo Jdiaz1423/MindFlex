@@ -1,0 +1,27 @@
+# Plan de Automatización de Pruebas
+
+## 1. Alcance de la Automatización
+- **Áreas**: Pruebas de funcionalidad, integración, rendimiento.
+- **Prioridad**: Pruebas de funcionalidades críticas y casos de regresión frecuentes.
+
+## 2. Herramientas de Automatización
+- **UI**: Selenium.
+- **Unitarias**: PyTest.
+- **API**: Postman.
+- **Rendimiento**: JMeter.
+
+## 3. Estrategia y Enfoque
+- **Tipo de Pruebas**: Funcionales, integradas, de rendimiento.
+- **Mantenimiento**: Actualización periódica de scripts.
+- **CI/CD**: Jenkins para ejecución continua.
+
+## 4. Casos de Prueba Automatizados
+- **Casos**: Lista de casos de prueba y scripts asociados.
+- **Scripts**: Enlace a los scripts de prueba.
+
+## 5. Configuración del Entorno
+- **Entorno**: Configuración de máquinas y servicios necesarios.
+
+## 6. Reporte y Análisis
+- **Reportes**: Formato y frecuencia de informes.
+- **Análisis de Fallos**: Procedimiento para revisión y resolución de fallos.
