@@ -4,6 +4,8 @@
 
 ¡Bienvenido a nuestro proyecto! Este repositorio contiene el desarrollo de una nueva funcionalidad de personalización para la **MindFlex Learning Platform**. 
 
+Link de Jira: https://teamprogramacion3.atlassian.net/jira/software/projects/SCRUM/list?atlOrigin=eyJpIjoiZTc0NWFmYjEyMjBkNGRmZTllZmEyNDRhNjM3NGY1Y2IiLCJwIjoiaiJ9
+
 ## 📌 **Descripción del Proyecto**
 
 Este proyecto tiene como objetivo mejorar la capacidad de personalización de la plataforma educativa MindFlex, permitiendo una experiencia de aprendizaje más adaptativa y centrada en el usuario. La nueva funcionalidad utiliza inteligencia artificial y análisis de datos para ofrecer contenido educativo personalizado basado en el progreso y necesidades individuales.
